@@ -1,0 +1,14 @@
+.one { 
+background-color: black;
+color: rgb(250, 164, 3);
+text-align: center;
+}
+.two {
+    background-color: lightgray;
+    padding: 1em;  
+}
+body {
+background-image: url(record.png);
+background-repeat: repeat;
+margin: 0px;
+}
